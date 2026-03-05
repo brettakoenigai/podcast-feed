@@ -11,6 +11,12 @@
     <itunes:summary>Automated gardening tips and tricks powered by AI</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Home &amp; Garden"/>
+    <itunes:image href="https://brettakoenigai.github.io/podcast-feed/cover_art.jpg"/>
+    <image>
+      <url>https://brettakoenigai.github.io/podcast-feed/cover_art.jpg</url>
+      <title>AI Gardening Podcast</title>
+      <link>https://brettakoenigai.github.io/podcast-feed</link>
+    </image>
 
     <item>
       <title>Ultimate Guide to Starting a Vegetable Garden: Tips for Beginners</title>
@@ -20,6 +26,7 @@
       <enclosure url="https://brettakoenigai.github.io/podcast-feed/episodes/audio.mp3" length="1360512" type="audio/mpeg"/>
       <itunes:duration>00:10:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://brettakoenigai.github.io/podcast-feed/cover_art.jpg"/>
     </item>
   </channel>
 </rss>
