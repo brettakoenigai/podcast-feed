@@ -3,18 +3,18 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AI Tech Insights Podcast</title>
+    <title>AI Daily</title>
     <link>https://brettakoenigai.github.io/podcast-feed</link>
     <language>en-us</language>
-    <description>AI-powered insights on technology, development, and innovation</description>
+    <description>Daily AI-powered insights on technology, development, and innovation</description>
     <itunes:author>Brett Koenig</itunes:author>
-    <itunes:summary>AI-powered insights on technology, development, and innovation</itunes:summary>
+    <itunes:summary>Daily AI-powered insights on technology, development, and innovation</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://brettakoenigai.github.io/podcast-feed/cover_art.jpg"/>
     <image>
       <url>https://brettakoenigai.github.io/podcast-feed/cover_art.jpg</url>
-      <title>AI Tech Insights Podcast</title>
+      <title>AI Daily</title>
       <link>https://brettakoenigai.github.io/podcast-feed</link>
     </image>
 
