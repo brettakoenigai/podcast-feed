@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Gardening Podcast</title>
+    <link>https://brettakoenigai.github.io/podcast-feed</link>
+    <language>en-us</language>
+    <description>Automated gardening tips and tricks powered by AI</description>
+    <itunes:author>Brett Koenig</itunes:author>
+    <itunes:summary>Automated gardening tips and tricks powered by AI</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Home &amp; Garden"/>
+
+    <item>
+      <title>Ultimate Guide to Starting a Vegetable Garden: Tips for Beginners</title>
+      <description>Ready to get your hands dirty in Columbus, Ohio? This beginner's guide will show you exactly how to start a simple garden, even if you have no experience! Learn about choosing the right plants for Ohio's climate, preparing your soil, essential tools, and easy planting techniques. Grow your own vegetables, herbs, or flowers right in your backyard. We make gardening in Columbus simple and fun!</description>
+      <pubDate>Thu, 05 Mar 2026 11:50:00 GMT</pubDate>
+      <guid isPermaLink="false">episode-gardening-2026-03-05</guid>
+      <enclosure url="https://brettakoenigai.github.io/podcast-feed/episodes/audio.mp3" length="1360512" type="audio/mpeg"/>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
