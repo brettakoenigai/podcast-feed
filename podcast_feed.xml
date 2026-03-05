@@ -3,27 +3,38 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AI Gardening Podcast</title>
+    <title>AI Tech Insights Podcast</title>
     <link>https://brettakoenigai.github.io/podcast-feed</link>
     <language>en-us</language>
-    <description>Automated gardening tips and tricks powered by AI</description>
+    <description>AI-powered insights on technology, development, and innovation</description>
     <itunes:author>Brett Koenig</itunes:author>
-    <itunes:summary>Automated gardening tips and tricks powered by AI</itunes:summary>
+    <itunes:summary>AI-powered insights on technology, development, and innovation</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:category text="Home &amp; Garden"/>
+    <itunes:category text="Technology"/>
     <itunes:image href="https://brettakoenigai.github.io/podcast-feed/cover_art.jpg"/>
     <image>
       <url>https://brettakoenigai.github.io/podcast-feed/cover_art.jpg</url>
-      <title>AI Gardening Podcast</title>
+      <title>AI Tech Insights Podcast</title>
       <link>https://brettakoenigai.github.io/podcast-feed</link>
     </image>
+
+    <item>
+      <title>Ramp Inspect: The Cloud AI Agent Supercharging Dev Teams | 30% AI PRs</title>
+      <description>Dive deep into Ramp's revolutionary Inspect AI coding agent! Discover how it tackles the limitations of traditional local AI tools like resource hogging and context loss by operating as a cloud-based, async background agent. We'll explore its innovative architecture powered by Modal sandboxes and the OpenCode framework, enabling limitless concurrency and shared context. Learn about its multiplayer capabilities, seamless integration via Slack, web, and Chrome extension, and the incredible achievement: 30% of Ramp's pull requests are now AI-generated! Understand the future of development with accelerated speed, true ownership, and async-first workflows. Essential for engineers & CTOs!</description>
+      <pubDate>Thu, 05 Mar 2026 13:29:00 GMT</pubDate>
+      <guid isPermaLink="false">episode-ramp-inspect-2026-03-05</guid>
+      <enclosure url="https://brettakoenigai.github.io/podcast-feed/episodes/audio.mp3" length="1716480" type="audio/mpeg"/>
+      <itunes:duration>00:06:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://brettakoenigai.github.io/podcast-feed/cover_art.jpg"/>
+    </item>
 
     <item>
       <title>Ultimate Guide to Starting a Vegetable Garden: Tips for Beginners</title>
       <description>Ready to get your hands dirty in Columbus, Ohio? This beginner's guide will show you exactly how to start a simple garden, even if you have no experience! Learn about choosing the right plants for Ohio's climate, preparing your soil, essential tools, and easy planting techniques. Grow your own vegetables, herbs, or flowers right in your backyard. We make gardening in Columbus simple and fun!</description>
       <pubDate>Thu, 05 Mar 2026 11:50:00 GMT</pubDate>
       <guid isPermaLink="false">episode-gardening-2026-03-05</guid>
-      <enclosure url="https://brettakoenigai.github.io/podcast-feed/episodes/audio.mp3" length="1360512" type="audio/mpeg"/>
+      <enclosure url="https://brettakoenigai.github.io/podcast-feed/episodes/gardening-audio.mp3" length="1360512" type="audio/mpeg"/>
       <itunes:duration>00:10:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://brettakoenigai.github.io/podcast-feed/cover_art.jpg"/>
